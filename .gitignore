@@ -37,3 +37,8 @@ yarn.lock
 
 #Ignore dataset
 dataset/
+
+result/
+
+
+.DS_Store
